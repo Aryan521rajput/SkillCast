@@ -49,28 +49,12 @@ This repository contains the full cross-platform Flutter application.
 
 ---
 
-## 📘 API Documentation (Full)
-
-The complete API design, data model, Firestore rules, screen-to-API mapping, and architecture description can be found here:
-
-👉 
-
-This includes:
-- Firestore collection schema  
-- Authentication flow  
-- Enrollment flow  
-- Reviews flow  
-- Firestore rules explanation  
-- Architecture diagram  
-- Screens → API mapping  
-
----
-
 ## 🧩 Installation & Setup Guide
 
 ### 1.Clone the repository
 
 git clone https://github.com/Aryan521rajput/skillcast.git
+
 cd skillcast
 
 2.Install all dependencies
