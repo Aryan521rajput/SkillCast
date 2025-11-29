@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071191691448",
+    "project_id": "skillcast-71f39",
+    "storage_bucket": "skillcast-71f39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071191691448:android:b2691bd5d8eda480ad244d",
+        "android_client_info": {
+          "package_name": "com.example.skillcast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJGURObhUYureCx1GasD8Ze9wskwPyVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
