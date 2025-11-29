@@ -49,26 +49,6 @@ This repository contains the full cross-platform Flutter application.
 
 ---
 
-## 📂 Project Structure
-
-SkillCast/
-│
-├── lib/ # Main Flutter source code (screens, controllers, models, widgets)
-├── assets/ # Avatars, icons, images used across the app
-├── android/ # Android-specific native project
-├── ios/ # iOS project (for Xcode builds)
-├── web/ # Web build configuration
-├── windows/ # Windows desktop support
-├── macos/ # macOS desktop support
-├── linux/ # Linux desktop support
-│
-├── pubspec.yaml # Flutter dependencies & assets configuration
-├── README.md # Project documentation
-└── API.md # Complete API design & documentation
-
-
----
-
 ## 📘 API Documentation (Full)
 
 The complete API design, data model, Firestore rules, screen-to-API mapping, and architecture description can be found here:
