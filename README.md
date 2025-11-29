@@ -70,7 +70,7 @@ This includes:
 
 ### 1.Clone the repository
 
-git clone https://github.com/<your-username>/skillcast.git
+git clone https://github.com/Aryan521rajput/skillcast.git
 cd skillcast
 
 2.Install all dependencies
